@@ -63,4 +63,6 @@ ant
 npm install
 npm start
 ```
-注：首次编译后可直接通过`npm start`启动程序。
+>注：
+>1. 首次编译后可直接通过`npm start`启动程序。  
+>2. 若无法正确编译，请先正确安装ant的相关依赖,然后尝试npm prune。
